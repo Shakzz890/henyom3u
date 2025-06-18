@@ -4,9 +4,9 @@
 
 ########## Shakzz ##########
 
-#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAq5S2qHVnie9PKJ6XZNsbRu7nWy49yqTJAodRKZqBgMDYax8FMXM6MGOR&s=10"
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9ny3q_5Tf_ku22-a3aC9FnM-7uHJIFzvx8na_r0vq_nBfJyagCTfzlQ&s=10"
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9ny3q_5Tf_ku22-a3aC9FnM-7uHJIFzvx8na_r0vq_nBfJyagCTfzlQ&s=10" group-title="Shakzz", ShakzzTV is not for Sale Youtube.com/@Shakzz05
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9ny3q_5Tf_ku22-a3aC9FnM-7uHJIFzvx8na_r0vq_nBfJyagCTfzlQ&s=10" group-title="Shakzz", Youtube.com/@Shakzz05
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001286/manifest.mpd?virtualDomain=001.live_hls.zte.com
