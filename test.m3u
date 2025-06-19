@@ -1,15 +1,12 @@
-#EXTM3U billed-msg="M3U PLAYLIST BY: SHAKZZ"
-
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://i.mjh.nz/PlutoTV/all.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml, https://raw.githubusercontent.com/mystery75/streaming/app/VOD.xml, https://www.bevy.be/bevyfiles/philippinespremium2.xml, https://bit.ly/pondan-epg, https://azimabid00.github.io/epg/astro_epg.xml, https://raw.githubusercontent.com/mystery75/streaming/app/VOD.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://i.mjh.nz/PlutoTV/all.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/mystery75/streaming/app/VOD.xml,https://www.bevy.be/bevyfiles/philippinespremium2.xml,https://bit.ly/pondan-epg,https://azimabid00.github.io/epg/astro_epg.xml,https://raw.githubusercontent.com/mystery75/streaming/app/VOD.xml"
 
 ########## Shakzz ##########
 
-#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9ny3q_5Tf_ku22-a3aC9FnM-7uHJIFzvx8na_r0vq_nBfJyagCTfzlQ&s=10"
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9ny3q_5Tf_ku22-a3aC9FnM-7uHJIFzvx8na_r0vq_nBfJyagCTfzlQ&s=10" group-title="Shakzz", Youtube.com/@Shakzz05
+#EXTINF:-1 tvg-id="shakzz01" tvg-name="Shakzz Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9ny3q_5Tf_ku22-a3aC9FnM-7uHJIFzvx8na_r0vq_nBfJyagCTfzlQ&s=10" group-title="Shakzz",Youtube.com/@Shakzz05
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.110:6910/001/2/ch00000090990000001286/manifest.mpd?virtualDomain=001.live_hls.zte.com
+http://143.44.136.110:6910/001/2/ch00000090990000001286/manifest.mpd
+
 
 ########## Cignal TV ##########
 
