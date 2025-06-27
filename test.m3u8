@@ -2,7 +2,7 @@
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://i.mjh.nz/PlutoTV/all.xml,https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml, https://raw.githubusercontent.com/mystery75/streaming/app/VOD.xml, https://www.bevy.be/bevyfiles/philippinespremium2.xml, https://bit.ly/pondan-epg, https://azimabid00.github.io/epg/astro_epg.xml, https://raw.githubusercontent.com/mystery75/streaming/app/VOD.xml"
 
-########## Shakzz Cutie ##########
+########## Shakzz ############
 
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz9ny3q_5Tf_ku22-a3aC9FnM-7uHJIFzvx8na_r0vq_nBfJyagCTfzlQ&s=10"
 
@@ -10,13 +10,6 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001286/manifest.mpd?virtualDomain=001.live_hls.zte.com
-
-#EXTINF: -1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/signons-and-signoffs/images/d/d2/GMA_7_Logo_2011.png" group-title="", GMA Manila
-https://nokotan.anhkz.fr/channel/2353eb89/index.m3u8?q=0842d25e3217cafb3fddf9cd0dfe0a1e
-#EXTINF: -1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/I_Heart_Movies_2021.png/250px-I_Heart_Movies_2021.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/I_Heart_Movies_2021.png/250px-I_Heart_Movies_2021.png" group-title="", GMA I Heart Movies
-https://nokotan.anhkz.fr/channel/582ee6b4/index.m3u8?q=0842d25e3217cafb3fddf9cd0dfe0a1e
-#EXTINF: -1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/6/60/Heart_of_Asia_Logo_2020.png" tvg-logo-small="https://static.wikia.nocookie.net/russel/images/6/60/Heart_of_Asia_Logo_2020.png" group-title="", GMA Heart of Asia
-https://nokotan.anhkz.fr/channel/n13585467/index.m3u8?q=0842d25e3217cafb3fddf9cd0dfe0a1e
 
 
 ########## Cignal TV ##########
@@ -1352,52 +1345,3 @@ http://supersonictv.live:8080/611366/682256/22124
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="World TV",National Geographic Wild
 http://supersonictv.live:8080/611366/682256/22125
-
-###### RADIO PH #########
-
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/FMRadio_Philippines.png"
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/fuyfjcn4gqee.png" group-title="Ph Live Radio",87.5 Republika FM1
-https://stream.zeno.fm/qnt98p5m108uv
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/983/awr-manila-891.ab9269f0.png" group-title="Ph Live Radio",89.1 AWR Manila
-http://192.53.113.120:8000/stream?type=.mp3
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/216/dwtm-magic-899-fm.dd9f5d41.png" group-title="Ph Live Radio",89.9 Magic
-https://stream.zeno.fm/sh37pvfd938uv
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/141/dzmb-love-radio-907-fm.fd6dd832.png" group-title="Ph Live Radio",90.7 Love Radio
-https://azura.loveradio.com.ph/listen/love_radio_manila/radio.mp3
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://onlineradio.ph/uploads/img/91-5-win-radio-manila.jpg" group-title="Ph Live Radio",91.5 Win Radio
-https://stream.zeno.fm/nz4ydgnu6hhvv
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/113/fm-radio-philippines.60a60500.jpg" group-title="Ph Live Radio",92.3 FM RADIO Manila
-http://us1.amfmph.com:8872/stream?type=.aac
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/209/monster-radio-rx-931-fm.bd515dec.png" group-title="Ph Live Radio",93.1 Monster Radio RX 
-https://in-icecast.eradioportal.com:8443/monsterrrx
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/550/eagle-fm-955.31726a37.jpg" group-title="Ph Live Radio",95.5 Eagle FM
-http://n0c.radiojar.com/yus0r2bghd3vv?rj-ttl=5&rj-tok=AAABl4NB7pwAuUwQgelXY74u7w
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/138/dwrk-963-easy-rock.c2c03660.png" group-title="Ph Live Radio",96.3 Easy Rock
-https://azura.easyrock.com.ph/listen/easy_rock_manila/radio.mp3
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3fFrky9eJE.jpg" group-title="Ph Live Radio",97.9 Home Radio
-https://hrmanila.radioca.st/stream
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/211/yes-fm-manila-1011.3596a020.png" group-title="Ph Live Radio",101.1 Yes Fm
-https://azura.yesfm.com.ph/listen/yes_fm_manila/radio.mp3
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn-profiles.tunein.com/s120158/images/logog.png?t=162748" group-title="Ph Live Radio",100.3 RJ FM
-https://tls.radyoph.com/secure.php?token=e65da9db216c01cc4bb7de86cdafc78f
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/848/star-fm-manila.c6a245b5.png" group-title="Ph Live Radio",102.7 Star FM
-https://stream.zeno.fm/69b1kf7q0y5tv
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/PG5RgCjKLe.png" group-title="Ph Live Radio",106.7 Energy FM
-http://ph-icecast.eradioportal.com:8000/energyfm_manila
-
-
-
