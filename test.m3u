@@ -1346,7 +1346,7 @@ http://supersonictv.live:8080/611366/682256/22124
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="World TV",National Geographic Wild
 http://supersonictv.live:8080/611366/682256/22125
 
-#EXTINF:-1 tvg-id="spyxfamily2024" group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/36/Spy_x_Family_Code_White_poster.jpg",Spy x Family: Code White Tag Dub (720p) 
+#EXTINF:-1 tvg-id="spyxfamily2024" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyR5QpP7AHT91oLNzml1vFLH6ULG5fYvwuvrHwak0STvIN03hPwT9iQsYs&s=10",Spy x Family: Code White Tag Dub (720p) 
 #KODIPROP:inputstream.adaptive.manifest_type=mp4
 #KODIPROP:inputstream.adaptive.license_type=none
 https://pixeldrain.com/api/file/AB3vKikE
