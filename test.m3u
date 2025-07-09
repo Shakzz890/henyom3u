@@ -1365,6 +1365,11 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b2
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZG9pqFw.png" group-logo="https://i.imgur.com/rsPE0Fp.png" group-title="KIDS EXCLUSIVES",CRUNCHYROLL | EN AUDIO 
 https://bit.ly/Crunchyroll-ph
 
+#EXTINF:-1 channel-id="GBBD5100001HL" tvg-id="GBBD5100001HL" tvg-chno="4616" tvg-name="SuperToons TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD5100001HL_20241030T142601SQUARE.png" group-title="KIDS EXCLUSIVES", SuperToons TV
+https://jmp2.uk/sam-GBBD5100001HL.m3u8
+
+#EXTINF:-1 tvg-id="ANIMExHIDIVE.us" tvg-name="Anime x Hidlve" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/666de197b5e5c34842b3a94ae5a12634.png" group-title="KIDS EXCLUSIVES",Anime x Hidlve
+https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8
 
 ########## MOVIES ############
 
