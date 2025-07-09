@@ -1350,36 +1350,36 @@ http://supersonictv.live:8080/611366/682256/22125
 
 #EXTINF:-1 group-logo="https://img2.wikia.nocookie.net/__cb20131219223713/cartoonnetwork/images/8/81/Warner_Bros._Animation_Logo.png"
 
-#EXTINF:-1 tvg-id="5da0c85bd2c9c10009370984" tvg-name="Naruto" tvg-logo="https://i.ibb.co/k89NQ92/Naruto-logo-svg.png" group-title="KIDS EXCLUSIVES",Naruto 
+#EXTINF:-1 tvg-id="5da0c85bd2c9c10009370984" tvg-name="Naruto" tvg-logo="https://i.ibb.co/k89NQ92/Naruto-logo-svg.png" group-title="CARTOONS AND ANIMATIONS",Naruto 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Anime All Day" tvg-logo="https://i.ibb.co/Y78QGb2/USAJ3504502-A-20240520-T214506-SQUARE-removebg-preview.png" group-title="KIDS EXCLUSIVES",Anime All Day
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Anime All Day" tvg-logo="https://i.ibb.co/Y78QGb2/USAJ3504502-A-20240520-T214506-SQUARE-removebg-preview.png" group-title="CARTOONS AND ANIMATIONS",Anime All Day
 https://jmp2.uk/sam-USAJ3504502A.m3u8
 
-#EXTINF:-1 channel-id="pluto-60fb053712f22a0007ff14d2" tvg-id="60fb053712f22a0007ff14d2" tvg-logo="https://www.pngarts.com/files/10/Bumble-Bee-Logo-Transformer-Transparent.png" tvg-chno="3200" group-title="KIDS EXCLUSIVES" , Transformers TV 
+#EXTINF:-1 channel-id="pluto-60fb053712f22a0007ff14d2" tvg-id="60fb053712f22a0007ff14d2" tvg-logo="https://www.pngarts.com/files/10/Bumble-Bee-Logo-Transformer-Transparent.png" tvg-chno="3200" group-title="CARTOONS AND ANIMATIONS" , Transformers TV 
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb053712f22a0007ff14d2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=94a002fa-b258-11ee-a982-67540c86de73&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dc17f96c-eab5-42c7-bb41-6e9a3c683eeb&userId=&serverSideAds=true
 
-EXTINF:-1 tvg-id="5f7790b3ed0c88000720b241" tvg-name="One Piece" tvg-logo="https://i.ibb.co/qm2Qz2b/945-9451491-one-piece-official-logo.png" group-title="KIDS EXCLUSIVES",One Piece
+EXTINF:-1 tvg-id="5f7790b3ed0c88000720b241" tvg-name="One Piece" tvg-logo="https://i.ibb.co/qm2Qz2b/945-9451491-one-piece-official-logo.png" group-title="CARTOONS AND ANIMATIONS",One Piece
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZG9pqFw.png" group-logo="https://i.imgur.com/rsPE0Fp.png" group-title="KIDS EXCLUSIVES",CRUNCHYROLL | EN AUDIO 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZG9pqFw.png" group-logo="https://i.imgur.com/rsPE0Fp.png" group-title="CARTOONS AND ANIMATIONS",CRUNCHYROLL | EN AUDIO 
 https://bit.ly/Crunchyroll-ph
 
-#EXTINF:-1 channel-id="GBBD5100001HL" tvg-id="GBBD5100001HL" tvg-chno="4616" tvg-name="SuperToons TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD5100001HL_20241030T142601SQUARE.png" group-title="KIDS EXCLUSIVES", SuperToons TV
+#EXTINF:-1 channel-id="GBBD5100001HL" tvg-id="GBBD5100001HL" tvg-chno="4616" tvg-name="SuperToons TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD5100001HL_20241030T142601SQUARE.png" group-title="CARTOONS AND ANIMATIONS", SuperToons TV
 https://jmp2.uk/sam-GBBD5100001HL.m3u8
 
-#EXTINF:-1 tvg-id="ANIMExHIDIVE.us" tvg-name="Anime x Hidlve" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/666de197b5e5c34842b3a94ae5a12634.png" group-title="KIDS EXCLUSIVES",Anime x Hidlve
+#EXTINF:-1 tvg-id="ANIMExHIDIVE.us" tvg-name="Anime x Hidlve" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/666de197b5e5c34842b3a94ae5a12634.png" group-title="CARTOONS AND ANIMATIONS",Anime x Hidlve
 https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 channel-id="63f87d057533d80008ab9549-ca" tvg-id="63f87d057533d80008ab9549" tvg-chno="611" tvg-name="SpongeBob SquarePants" tvg-logo="https://images.pluto.tv/channels/63f87d057533d80008ab9549/colorLogoPNG.png" group-title="KIDS EXCLUSIVES", SpongeBob SquarePants
+#EXTINF:-1 channel-id="63f87d057533d80008ab9549-ca" tvg-id="63f87d057533d80008ab9549" tvg-chno="611" tvg-name="SpongeBob SquarePants" tvg-logo="https://images.pluto.tv/channels/63f87d057533d80008ab9549/colorLogoPNG.png" group-title="CARTOONS AND ANIMATIONS", SpongeBob SquarePants
 https://jmp2.uk/plu-63f87d057533d80008ab9549.m3u8
-#EXTINF:-1 channel-id="656df599c0fc8800089c75ab-gb" tvg-id="656df599c0fc8800089c75ab" tvg-chno="458" tvg-name="Avatar" tvg-logo="https://images.pluto.tv/channels/656df599c0fc8800089c75ab/colorLogoPNG.png" group-title="KIDS EXCLUSIVES", Avatar
+#EXTINF:-1 channel-id="656df599c0fc8800089c75ab-gb" tvg-id="656df599c0fc8800089c75ab" tvg-chno="458" tvg-name="Avatar" tvg-logo="https://images.pluto.tv/channels/656df599c0fc8800089c75ab/colorLogoPNG.png" group-title="CARTOONS AND ANIMATIONS", Avatar
 https://jmp2.uk/plu-656df599c0fc8800089c75ab.m3u8
 
-#EXTINF:0 tvg-id="garfield-and-friends" tvg-logo="http://images.pluto.tv/channels/60faf9ddfcc1f200070a5932/colorLogoPNG.png" group-title="KIDS EXCLUSIVES", Garfield and Friends
+#EXTINF:0 tvg-id="garfield-and-friends" tvg-logo="http://images.pluto.tv/channels/60faf9ddfcc1f200070a5932/colorLogoPNG.png" group-title="CARTOONS AND ANIMATIONS", Garfield and Friends
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60faf9ddfcc1f200070a5932/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c7e4fb31-77f8-11ec-8df7-e1b1a799e6b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=637a7296-b203-42da-83fb-300e328143d5&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="mrbean-x" tvg-name="MR BEAN" tvg-logo="https://i.imgur.com/zKGnFe4.png" group-title="KIDS EXCLUSIVES",MR BEAN
+#EXTINF:-1 tvg-id="mrbean-x" tvg-name="MR BEAN" tvg-logo="https://i.imgur.com/zKGnFe4.png" group-title="CARTOONS AND ANIMATIONS",MR BEAN
 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
 
 ########## MOVIES ############
