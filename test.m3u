@@ -1382,6 +1382,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60faf9ddfcc1f200070
 #EXTINF:-1 tvg-id="mrbean-x" tvg-name="MR BEAN" tvg-logo="https://i.imgur.com/zKGnFe4.png" group-title="CARTOONS AND ANIMATIONS",MR BEAN
 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
 
+#EXTINF:-1 tvg-id="5f7790b3ed0c88000720b241" tvg-name="One Piece" tvg-logo="https://i.ibb.co/qm2Qz2b/945-9451491-one-piece-official-logo.png" group-title="CARTOONS AND ANIMATIONS",One Piece
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 ########## MOVIES ############
 
 #EXTINF:-1 tvg-id="" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyR5QpP7AHT91oLNzml1vFLH6ULG5fYvwuvrHwak0STvIN03hPwT9iQsYs&s=10",Spy x Family: Code White (Tagalog Dub | 720p)
