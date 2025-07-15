@@ -1494,20 +1494,17 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b2
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Channel PH" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b58bbc88-0030-4447-b99e-19e7dbc51b14/de71xo3-266469a4-3bd5-4bd7-890e-192c7798e0bb.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2I1OGJiYzg4LTAwMzAtNDQ0Ny1iOTllLTE5ZTdkYmM1MWIxNFwvZGU3MXhvMy0yNjY0NjlhNC0zYmQ1LTRiZDctODkwZS0xOTJjNzc5OGUwYmIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.u91xeziNpysrpAuDKS5hssYBe4p_aTJl3muXVYRmmXw" group-title="CARTOONS AND ANIMATIONS",Cartoon Channel PH (10 AM - 8 PM)
 https://live20.bozztv.com/giatv/giatv-cartoonchannelph/cartoonchannelph/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="Treehouse.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Treehouse_TV_logo.svg/1920px-Treehouse_TV_logo.svg.png" tvg-name="Tv channel name" group-title="CARTOONS AND ANIMATIONS",Treehouse
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=de9b995d2aba32bae1c5dbe38a46f2d9:a2d94fdff16e9c332164a73f8b170bd3
 https://a79aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/ghf7y1plnj/out/v1/0c87bd17ab474015b77c0f3028190f78/cenc.mpd
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_(2022).svg/1200px-PBS_Kids_logo_(2022).svg.png?20220814214903" group-title="CARTOONS AND ANIMATIONS", PBS KIDS ASIA
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
 #EXTINF:-1 tvg-id="USBC2400019EF" tvg-name="" tvg-logo="https://ia803207.us.archive.org/32/items/zoo-moo-kids-2020_202006/ZooMoo-Kids-2020.png" group-title="CARTOONS AND ANIMATIONS", ZOO MOO ASIA
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-
 
 #EXTINF:-1 channel-id="pluto-60faffc3fbbc120007fc4376" tvg-id="60faffc3fbbc120007fc4376" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZYsXFqofA9yrEHWjtaq2_0bdkIy4zY2-nIqEYa6lwYDiw0C4UeZMkpW7TYmCeAwYW4I-GideXBIuMrVxBi3PzcIFpLYQb4-5BMQYuESt7mO2-V4gY2yaxjhfafRDijOtM6rHp7PVu84sFoJjDxCT62UMdGznoq4tZrnDb8I9gslTCMl5ecwgK/w640-h456/image02_Pinkfong%20Surpassing%201B%20Streams%20on%20Spotify.jpg" tvg-chno="3170" group-title="CARTOONS AND ANIMATIONS" , Baby Shark TV 
 https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
